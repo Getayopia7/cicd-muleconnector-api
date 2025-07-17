@@ -4,7 +4,7 @@
 
 	<groupId>14f40057-715e-4dc6-821a-22aac47e39cd</groupId>
 	<artifactId>wkelevenexercise</artifactId>
-	<version>1.0.5</version>
+	<version>1.0.7</version>
 	<packaging>mule-application</packaging>
 
 	<name>wkelevenexercise</name>
@@ -14,7 +14,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<app.runtime>4.9.0</app.runtime>
-		<mule.maven.plugin.version>4.3.0</mule.maven.plugin.version>
+		<mule.maven.plugin.version>4.5.1</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -22,7 +22,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-clean-plugin</artifactId>
-				<version>3.2.2</version>
+				<version>3.2.0</version>
 			</plugin>
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
