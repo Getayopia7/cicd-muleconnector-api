@@ -17,7 +17,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	status: "next message is loading",
+	status: "next message is",
 	message: "success is coming through..."
 }]]></ee:set-payload>
 			</ee:message>
